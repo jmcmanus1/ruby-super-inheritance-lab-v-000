@@ -17,4 +17,5 @@ class ChattyStudent < Student
 		super
 		super
 		puts "Pick me!"
+	end
 end
